@@ -67,11 +67,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         </form>
 
-        <p class="text-center mt-3 mb-0">
-            Already have an account?
-            <a href="login.php">Login</a>
-        </p>
-
     </div>
 
 </div>
